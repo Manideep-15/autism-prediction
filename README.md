@@ -1,0 +1,1 @@
+Developed a machine learning model to predict autism spectrum disorder (ASD) in children based on behavioral and genetic data for early intervention and support.Also created a user interactive webpage using HTML and CSS so that people can have easy interaction with our model
